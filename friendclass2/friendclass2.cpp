@@ -7,3 +7,4 @@ private:
 public:
 	friend void setNama(mahasiswa& a, string);
 };
+
