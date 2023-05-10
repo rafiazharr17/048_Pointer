@@ -27,6 +27,6 @@ int main() {
 	pelajar p;
 	m.showNilaiPelajar(p);
 	cout << endl;
-	system("pause");
+	system("\npause");
 	return 0;
 }
