@@ -5,4 +5,5 @@ class mahasiswa {
 public:
 	int nim;
 	
+
 };
