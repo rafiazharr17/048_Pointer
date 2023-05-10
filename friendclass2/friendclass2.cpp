@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 class mahasiswa {
@@ -20,3 +21,4 @@ int main() {
 	system("pause");
 	return 0;
 }
+
